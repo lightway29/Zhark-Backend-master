@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo-test",
+  "version": false,
+  "globalDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "lodash": "registry:dt/lodash#3.10.0+20160619033623",
+    "mocha": "registry:dt/mocha#2.2.5+20160619032855",
+    "node": "registry:dt/node#6.0.0+20160602155235",
+    "q": "registry:dt/q#0.0.0+20160613154756"
+  },
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20160815132839",
+    "express": "registry:npm/express#4.14.0+20160911114220",
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220"
+  }
+}

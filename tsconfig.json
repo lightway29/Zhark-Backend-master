@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "sourceMap": true,
+    "declaration": true,
+    "module": "commonjs",
+    "noExternalResolve": false,
+    "sortOutput": true
+  },
+  "filesGlob": [
+    "typings/index.d.ts",
+    "src/**/*.ts",
+    "test/**/*.ts"
+  ],
+  "files": [
+    "src\\index.ts",
+    "src\\model\\Error.ts",
+    "src\\model\\User.ts",
+    "src\\routes\\UserRoute.ts",
+    "src\\service\\UserService.ts",
+    "src\\storage\\StorageManager.ts",
+    "src\\util\\HttpStatus.ts",
+    "typings\\index.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

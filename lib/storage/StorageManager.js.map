@@ -1,0 +1,1 @@
+{"version":3,"file":"StorageManager.js","sourceRoot":"","sources":["../../src/storage/StorageManager.ts"],"names":[],"mappings":";AAAA,IAAY,QAAQ,WAAM,UAAU,CAAC,CAAA;AAErC;IACE;QACE,QAAQ,CAAC,OAAO,GAAS,MAAO,CAAC,OAAO,CAAC;QACzC,QAAQ,CAAC,OAAO,CAAC,0BAA0B,CAAC,CAAC;IAC/C,CAAC;IACH,qBAAC;AAAD,CAAC,AALD,IAKC;AALY,sBAAc,iBAK1B,CAAA"}
